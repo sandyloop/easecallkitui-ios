@@ -4,7 +4,7 @@ PODS:
     - AgoraRtcEngine_iOS
     - HyphenateLite (~> 3.7.4)
     - Masonry
-    - SDWebImage (~> 3.7.2)
+    - SDWebImage
   - HyphenateLite (3.7.4)
   - Masonry (1.1.0)
   - MBProgressHUD (1.2.0)
@@ -33,7 +33,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AgoraRtcEngine_iOS: 1a0adbf959ab5175b700c8bab30b1346fc27ef1a
-  EaseCallKit: 335525e84cbea6ca0637f52e3cb02cb9df4201ef
+  EaseCallKit: f579d0efc80e8f62426a0e6448f9a4a452131a1e
   HyphenateLite: 7bf338541cf52d4977d9adb90290d2d9ac72a441
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406

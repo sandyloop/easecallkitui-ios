@@ -24,5 +24,5 @@ Pod::Spec.new do |s|
     s.dependency 'HyphenateLite', '~> 3.7.4'
     s.dependency 'Masonry'
     s.dependency 'AgoraRtcEngine_iOS'
-    s.dependency 'SDWebImage', '~> 3.7.2'
+    s.dependency 'SDWebImage'
 end
