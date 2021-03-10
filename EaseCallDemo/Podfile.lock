@@ -5,12 +5,12 @@ PODS:
     - HyphenateLite (~> 3.7.4)
     - Masonry
     - SDWebImage
-  - HyphenateLite (3.7.4)
+  - HyphenateLite (3.7.4.1)
   - Masonry (1.1.0)
   - MBProgressHUD (1.2.0)
-  - SDWebImage (3.7.6):
-    - SDWebImage/Core (= 3.7.6)
-  - SDWebImage/Core (3.7.6)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
   - WHToast (0.0.7)
 
 DEPENDENCIES:
@@ -34,10 +34,10 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AgoraRtcEngine_iOS: 1a0adbf959ab5175b700c8bab30b1346fc27ef1a
   EaseCallKit: f579d0efc80e8f62426a0e6448f9a4a452131a1e
-  HyphenateLite: 7bf338541cf52d4977d9adb90290d2d9ac72a441
+  HyphenateLite: 8cecc0bda99fe841c4ae05f5173182ac1c986ac8
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
-  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
   WHToast: 11a17a3f09f5f733e32bd6f3338919a448cbb719
 
 PODFILE CHECKSUM: 76af0b33d2a4b1527194750aff61ad299412e857
